@@ -1382,6 +1382,16 @@
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/NppDocShare/"
 		},
 		{
+			"folder-name": "NppNodeJS",
+			"display-name": "NppNodeJS",
+			"version": "1.0.0",
+			"id": "bd596220e4155aa1d112fd5322978a19da9f0c087b953271f23f9b6f3b6bbc7b",
+			"repository": "https://github.com/seantw/NppNodeJS/releases/download/v1.0.0/NppNodeJS-v1.0.0-x64.zip",
+			"description": "Run Node.js scripts directly from Notepad++ with configurable menus, keyboard shortcuts, and APIs for accessing and modifying the current document.",
+			"author": "Sean Lin",
+			"homepage": "https://github.com/seantw/NppNodeJS"
+		},
+		{
 			"folder-name": "NppOpenAI",
 			"display-name": "NppOpenAI",
 			"version": "0.5.0.0",
